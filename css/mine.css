@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.w-50{
+width: 50%;}
+.img_height{
+    height: 300px;
+}
+
+.fw-bold{
+    font-weight: 600;
+    color: black !important;
+}
+footer a{
+    position: absolute;
+bottom:0;
+right: 0;
+}
+.navbar .collapse ul{
+   margin-left: auto;
+}
+@media(min-width:768px){
+    .news-input{
+        width:50%
+    }
+}
